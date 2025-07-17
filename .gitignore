@@ -1,0 +1,7 @@
+/air-quality-backend/node_modules
+/air-quality-web/node_modules
+/air-quality-web/dist
+.DS_Store
+Thumbs.db
+*.log
+/air-quality-backend/dist
